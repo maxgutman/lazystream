@@ -3,8 +3,8 @@
 """Test the implementation of the stream class"""
 
 __author__ = 'Max Gutman'
-__email__ = 'mxgutman@gmail.com'
-__python_version = '2.7.1'
+__email__ = 'mxgutman <at> gmail.com'
+__python_version__ = '2.7.1'
 
 
 import threading
