@@ -3,8 +3,8 @@
 """Implement a Stream class using built-ins"""
 
 __author__ = 'Max Gutman'
-__email__ = 'mxgutman@gmail.com'
-__python_version = '2.7.1'
+__email__ = 'mxgutman <at> gmail.com'
+__python_version__ = '2.7.1'
 
 
 class Stream(object):
